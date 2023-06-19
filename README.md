@@ -1,4 +1,5 @@
 # -Storms-
+Not to sure if this works on any other framework due to all the checks
 Allows you to start random storms with customizable messages
 
 Installation
